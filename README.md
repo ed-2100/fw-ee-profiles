@@ -1,6 +1,6 @@
 # FW16 EE Profiles
 
-This is a repository to hold my easyeffects profiles that I have shared with other people.
+This is a repository to hold easyeffects profiles that I have shared with other people.
 
 You can find the easyeffects profile for each version in its corresponding directory.
 
