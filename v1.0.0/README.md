@@ -27,6 +27,6 @@ Here is the basic filter layout:
 - **Brickwall Limiter**:
   - Allows the music to be played at high volumes without clipping.
 
-I use a UMIK-1 microphone with the calibration file loaded to take my measurements.
+I used a UMIK-1 microphone with the calibration file loaded to take my measurements.
 
 [Here](REW_Inversion_Tutorial.md) is a tutorial that guides you on making your own convolver correction.

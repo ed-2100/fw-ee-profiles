@@ -1,4 +1,4 @@
-# FW16 EE Profiles
+# My Framework 16 Easy Effects Profiles
 
 This is a repository to hold easyeffects profiles that I have shared with other people.
 
